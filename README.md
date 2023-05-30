@@ -20,7 +20,8 @@ npm install -g @angular/cli
 ```
 npm install
 ```
-Uso
+# Uso
+
 1. Inicie o servidor de desenvolvimento executando o seguinte comando no terminal:
 ```
 ng serve
