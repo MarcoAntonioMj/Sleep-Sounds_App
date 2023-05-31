@@ -1,5 +1,5 @@
 # Sleep-Sounds_App
-[Em Construção]  A Sleep Sounds App é uma aplicação desenvolvida em Angular que emite sons relaxantes para ajudar na hora de dormir. A aplicação oferece um menu com diferentes opções de sons, como acampamento, noite chuvosa, passeio de carro, som para estudos e som relaxante. Ao selecionar uma opção, o som correspondente é reproduzido em loop.
+[Em Construção]  A Sleep Sounds App é uma aplicação desenvolvida em Angular que emite sons relaxantes para ajudar na hora de dormir. A aplicação oferece um menu com diferentes opções de sons, como fogueira, noite chuvosa, passeio de carro, som para estudos e som relaxante. Ao selecionar uma opção, o som correspondente é reproduzido em loop.
 
 # Requisitos
 - Node.js
